@@ -20,14 +20,14 @@
 (SEP-20 Token Template - Liquidity Generator): v0.8.4+commit.c7e474f2   (optimization enabled with 200 runs)<br/>
 (Ranch Factory): v0.6.12+commit.27d51765 <br/>
 <br/>
-<h3>Deployed Contracts on SmartBCH Mainnet:</h3>
-LP Factory: 0x8d973bAD782c1FFfd8FcC9d7579542BA7Dd0998D<br/>
-AMM Router: 0xa194133ED572D86fe27796F2feADBAFc062cB9E0<br/>
-Multicall: 0x1b38EBAd553f218e2962Cb1C0539Abb5d6A37774<br/>
-Wrapped BCH: 0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04 <br/>
-Green Ben: 0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B <br/>
-MasterBreeder: 0xDEa721EFe7cBC0fCAb7C8d65c598b21B6373A2b6 <br/>
-Preseller: 0x7190D576214deEb04b5E6DdCf11E8b1Bfc396791 <br/>
+<h3>Deployed Contracts on Mintme Mainnet:</h3>
+LP Factory: 0x8375a0f04029e4b0c1ff602a3d222c011a00f569<br/>
+AMM Router: 0xb0cf011837fb7537ebbde0e30be0835d5c3c05c0<br/>
+Multicall: 0xd1dc7102f1987907d7635a03eba3d5e4cd14e40c<br/>
+Wrapped MintMe: 0x7d6af11dc20c0610f6b5a40821e0b9d256e201ff <br/>
+MintSwap: 0xb370f14b9414c0ed35989d154404e87262adb3f8 <br/>
+MasterBreeder: 0x6752960031368bcc2fd80812ec516e35f9580952 <br/>
+Preseller:  <br/>
 Timelock: 0x422D79D23986468166DBa045d73B6292FdAa0a47 <br/>
 IBO Factory: 0x9FE4b647609F77B5e23Cdbe85ea89064125386eE <br/>
 Lottery Ticket: 0xFc82061Fe93C1DeF8D6dD5D6865B383C543a1315 <br/>
@@ -39,10 +39,3 @@ SEP-20 Token Template - Basic: 0xE8280F2cd8728DA467c8Ec101241ef39f0041d35<br/>
 SEP-20 Token Template - Liquidity Generator: 0x6a737C379DaE77Bb085cA0c2902360A74Bf982A2<br/>
 Ranch Factory: 0x15F252B98e9195089D12e283Cd8388b1687C6b8E<br/>
 <br/>
-<h3>Deployed Contracts on SmartBCH Amber Testnet:</h3>
-LP Factory: 0x769e1fdbA5d0e397F34fD9d9B49F3d83F543DD02<br/>
-AMM Router: 0x221C2c57B0dAec7aF9A3B03c384c0C99e066b612<br/>
-Multicall: 0xd512aB1c3650dDb220C0E6Fa970Ff3AC640eFb7f<br/>
-Wrapped BCH: 0x17F4FCF5b6E0A95D4eE331c8529041896A073F9b<br/>
-Green Ben: 0x77beB0D017C743eCa0d22951A3b051A17D50f108<br/>
-Green Ben Faucet: 0x7A59a541884265E0038908ad7C16fc28e591f43A
