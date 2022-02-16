@@ -28,14 +28,11 @@ Wrapped MintMe: 0x7d6af11dc20c0610f6b5a40821e0b9d256e201ff <br/>
 MintSwap: 0xb370f14b9414c0ed35989d154404e87262adb3f8 <br/>
 MasterBreeder: 0x6752960031368bcc2fd80812ec516e35f9580952 <br/>
 Preseller:  <br/>
-Timelock: 0x422D79D23986468166DBa045d73B6292FdAa0a47 <br/>
-IBO Factory: 0x9FE4b647609F77B5e23Cdbe85ea89064125386eE <br/>
-Lottery Ticket: 0xFc82061Fe93C1DeF8D6dD5D6865B383C543a1315 <br/>
-Lottery: 0xd24d70B77db78bF8Bb7017a94be575Fb172C6C15 <br/>
-BenSwapLPValidator: 0x7888872828c92e8cF0d7bbc04B52CFe6fDD4Ffdf <br/>
-BenLock Factory: 0x5507194a62c02Ac47eD6da5Ab178C3cf62d4CEF4 <br/>
-SEP-20 Factory: 0x73410fa5CE7401272055a45DCaff7170D343433a<br/>
-SEP-20 Token Template - Basic: 0xE8280F2cd8728DA467c8Ec101241ef39f0041d35<br/>
-SEP-20 Token Template - Liquidity Generator: 0x6a737C379DaE77Bb085cA0c2902360A74Bf982A2<br/>
-Ranch Factory: 0x15F252B98e9195089D12e283Cd8388b1687C6b8E<br/>
+Timelock:  <br/>
+IBO Factory:  <br/>
+Lottery Ticket:  <br/>
+Lottery:  <br/>
+BenSwapLPValidator: 0x05e3cc1eae8acdcb36506f6600d3a0629b441fda <br/>
+BenLock Factory:  <br/>
+Ranch Factory: <br/>
 <br/>
